@@ -1,0 +1,5 @@
+D:\VB2005\test\KIemtraWifi\Disable network\Disable network\obj\Debug\Disable network.vbprojAssemblyReference.cache
+D:\VB2005\test\KIemtraWifi\Disable network\Disable network\obj\Debug\Disable_network.Form1.resources
+D:\VB2005\test\KIemtraWifi\Disable network\Disable network\obj\Debug\Disable_network.Resources.resources
+D:\VB2005\test\KIemtraWifi\Disable network\Disable network\obj\Debug\Disable network.vbproj.GenerateResource.cache
+D:\VB2005\test\KIemtraWifi\Disable network\Disable network\obj\Debug\Disable network.vbproj.CoreCompileInputs.cache

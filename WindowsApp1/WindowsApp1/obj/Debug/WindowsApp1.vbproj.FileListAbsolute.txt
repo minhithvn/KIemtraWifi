@@ -1,0 +1,5 @@
+D:\VB2005\test\KIemtraWifi\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\VB2005\test\KIemtraWifi\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\VB2005\test\KIemtraWifi\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\VB2005\test\KIemtraWifi\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\VB2005\test\KIemtraWifi\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
